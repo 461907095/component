@@ -1,0 +1,16 @@
+include ':app',
+        ':love',
+        ':library',
+        ':book',
+        ':news',
+        ':video',
+        ':todo',
+        ':gank',
+        ':note',
+        ':douban',
+        ':music',
+        ':android',
+        ':zhiHu',
+        ':other'
+
+
